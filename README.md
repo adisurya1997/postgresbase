@@ -150,3 +150,13 @@ export BCRYPT_COST=10 # default is 12
 # run the application
 go run -tags pq main.go serve --http=0.0.0.0:8090
 ```
+
+```python
+# Define a function to print numbers
+def print_numbers(start, end):
+    for num in range(start, end + 1):
+        print(num)
+
+# Call the function with start and end values
+print_numbers(1, 10)
+```
